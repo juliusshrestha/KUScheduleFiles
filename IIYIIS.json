@@ -1,0 +1,285 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Sunday",
+            "start":"10:00 AM",
+            "end":"12:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 204",
+            "lecturer":"Anamol Poudel",
+            "day":"Sunday",
+            "start":"12:00 AM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 231",
+            "lecturer":"Gajendra Sharma",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"10:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Monday",
+            "start":"10:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Monday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"MATH 207",
+            "lecturer":"Samir Shrestha",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"10:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 204",
+            "lecturer":"Anamol Poudel",
+            "day":"Tuesday",
+            "start":"11:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },  {
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Wednesday",
+            "start":"07:00 AM",
+            "end":"09:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"MATH 207",
+            "lecturer":"Samir Shrestha",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Thursday",
+            "start":"07:00 AM",
+            "end":"09:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MATH 207",
+            "lecturer":"Samir Shrestha",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 204",
+            "lecturer":"Anamol Poudel",
+            "day":"Thursday",
+            "start":"12:00 AM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 231",
+            "lecturer":"Gajendra Sharma",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 204",
+            "lecturer":"Prakash Poudel",
+            "day":"Sunday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 207",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Sunday",
+            "start":"12:00 AM",
+            "end":"02:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 231",
+            "lecturer":"Gajendra Sharma",
+            "day":"Sunday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 207",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Monday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 231",
+            "lecturer":"Gajendra Sharma",
+            "day":"Monday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },  {
+            "subject":"COMP 204",
+            "lecturer":"Prakash Poudel",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MATH 207",
+            "lecturer":"Khim Khattri",
+            "day":"Tuesday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 231",
+            "lecturer":"Gajendra Sharma",
+            "day":"Wednesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 204",
+            "lecturer":"Prakash Poudel",
+            "day":"Wednesday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MATH 207",
+            "lecturer":"Khim Khattri",
+            "day":"Wednesday",
+            "start":"02:00 PM",
+            "end":"04:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Thursday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Thursday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 207",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Thursday",
+            "start":"01:00 PM",
+            "end":"04:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"MCSC 202",
+            "lecturer":"Saraswoti Acharya",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 232",
+            "lecturer":"Santosh Khanal",
+            "day":"Friday",
+            "start":"01:00 PM",
+            "end":"03:00 PM",
+            "dept":"CE",
+            "year":"2nd",
+            "sem":"2nd"
+        }
+    ]
+}

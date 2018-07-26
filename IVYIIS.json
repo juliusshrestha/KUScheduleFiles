@@ -1,0 +1,53 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"COMP 486",
+            "lecturer":"Manish Pokharel",
+            "day":"Monday",
+            "start":"11:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"2nd"
+        }, {
+            "subject":"MGMT 402",
+            "lecturer":"",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 486",
+            "lecturer":"Manish Pokharel",
+            "day":"Tuesday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"2nd"
+        },{
+
+            "subject":"MGTS 402",
+            "lecturer":"Bhadra Man Tuladhar",
+            "day":"Tuesday",
+            "start":"12:00 AM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"2nd"
+      
+       },{
+            "subject":"MGTS 402",
+            "lecturer":"Bhadra Man Tuladhar",
+            "day":"Friday",
+            "start":"09:00 AM",
+            "end":"11:00 AM",
+            "dept":"CS",
+            "year":"4th",
+            "sem":"2nd"
+        }
+    ]
+}

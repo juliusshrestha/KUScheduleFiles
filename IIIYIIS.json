@@ -1,0 +1,134 @@
+{
+    "version": 1,
+    "schedule": [
+        {
+            "subject":"MATH 322",
+            "lecturer":"Kanhaiya Jha",
+            "day":"Monday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 409",
+            "lecturer":"Sushil Nepal",
+            "day":"Monday",
+            "start":"10:00 AM",
+            "end":"12:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 314",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Monday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        },{
+
+            "subject":"COMP 323",
+            "lecturer":"Bhadra Man Tuladhar",
+            "day":"Monday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+      
+       },{
+            "subject":"COMP 341",
+            "lecturer":"Sushil Shrestha",
+            "day":"Tuesday",
+            "start":"07:00 AM",
+            "end":"10:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 341",
+            "lecturer":"Sushil Shrestha",
+            "day":"Tuesday",
+            "start":"11:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 409 ",
+            "lecturer":"Sushil Nepal",
+            "day":"Tuesday",
+            "start":"01:00 PM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 314",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Wednesday",
+            "start":"07:00 AM",
+            "end":"09:00 AM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 302",
+            "lecturer":"Purushottam Kharel",
+            "day":"Wednesday",
+            "start":"10:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 409",
+            "lecturer":"Sushil Nepal",
+            "day":"Wednesday",
+            "start":"12:00 AM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        },  {
+            "subject":"MATH 322",
+            "lecturer":"Kanhaiya Jha",
+            "day":"Thursday",
+            "start":"07:00 AM",
+            "end":"09:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 314",
+            "lecturer":"Sameer Tamrakar",
+            "day":"Thursday",
+            "start":"10:00 AM",
+            "end":"12:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }, {
+            "subject":"COMP 302",
+            "lecturer":"Purushottam Kharel",
+            "day":"Thursday",
+            "start":"12:00 AM",
+            "end":"01:00 PM",
+            "dept":"CS",
+            "year":"3rdd",
+            "sem":"2nd"
+        },{
+            "subject":"COMP 313",
+            "lecturer":"",
+            "day":"Friday",
+            "start":"10:00 AM",
+            "end":"02:00 PM",
+            "dept":"CS",
+            "year":"3rd",
+            "sem":"2nd"
+        }
+    ]
+}
