@@ -39,7 +39,7 @@
             "sem":"2nd"
         },{
             "subject":"MCSC 202",
-            "lecturer":"Saraswoti Acharya",
+            "lecturer":" Dil Bahadur Gurung",
             "day":"Monday",
             "start":"12:00 AM",
             "end":"01:00 PM",
@@ -57,7 +57,7 @@
             "sem":"2nd"
         }, {
             "subject":"COMP 204",
-            "lecturer":"Anamol Poudel",
+            "lecturer":"Syatendra Lohani",
             "day":"Tuesday",
             "start":"11:00 AM",
             "end":"12:00 PM",
@@ -75,7 +75,7 @@
             "sem":"2nd"
         },  {
             "subject":"MCSC 202",
-            "lecturer":"Saraswoti Acharya",
+            "lecturer":"Dil Bahadur Gurung",
             "day":"Wednesday",
             "start":"07:00 AM",
             "end":"09:00 PM",
@@ -93,7 +93,7 @@
             "sem":"2nd"
         }, {
             "subject":"MCSC 202",
-            "lecturer":"Saraswoti Acharya",
+            "lecturer":"Dil Bahadur Gurung",
             "day":"Thursday",
             "start":"07:00 AM",
             "end":"09:00 PM",
@@ -111,7 +111,7 @@
             "sem":"2nd"
         }, {
             "subject":"COMP 204",
-            "lecturer":"Anamol Poudel",
+            "lecturer":"Satyendra Lohani",
             "day":"Thursday",
             "start":"12:00 AM",
             "end":"02:00 PM",
@@ -129,7 +129,7 @@
             "sem":"2nd"
         },{
             "subject":"COMP 204",
-            "lecturer":"Prakash Poudel",
+            "lecturer":"Satyendra Lohani",
             "day":"Sunday",
             "start":"09:00 AM",
             "end":"11:00 AM",
